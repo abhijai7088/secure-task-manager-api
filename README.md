@@ -272,6 +272,22 @@ Full stack running via Docker Compose — PostgreSQL, FastAPI backend, and React
 ![Docker Running](docs/screenshots/docker-running.png)
 
 ---
+## 🎥 Demo Video
+
+A complete walkthrough of the application showing:
+
+- User registration
+- User login with JWT authentication
+- Protected dashboard access
+- Task creation, update, and deletion
+- Role-based access behavior
+- Swagger API documentation
+- Dockerized full-stack execution
+
+▶️ **Watch the demo here:**  
+[Google Drive Demo Video](https://drive.google.com/file/d/1xgpQeVOsJJNSOWvY3QIgEf_N4uLuwb8T/view?usp=sharing)
+
+---
 
 ## ⚡ Installation & Setup
 
